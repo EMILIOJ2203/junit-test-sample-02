@@ -2,6 +2,8 @@
 
 `/GET /POST /PUT /DELETE` APIs for managing cakes.
 
+## Emilio Quinga
+
 ## Tech stack
 
 * Java 8
