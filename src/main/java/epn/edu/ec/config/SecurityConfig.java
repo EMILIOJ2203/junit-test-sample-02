@@ -23,7 +23,7 @@ public class SecurityConfig {
                         "/v3/api-docs",
                         "/v3/api-docs/**",
                         "/swagger-ui.html",
-                        "/swagger-ui/**").permitAll()
+                        "/cakes/**").permitAll()
                 .anyRequest().authenticated()
                 .and()
                 .httpBasic();
